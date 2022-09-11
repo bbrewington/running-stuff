@@ -18,7 +18,7 @@ From Galloway 5K/10K Running, p. 68-69
 | (**) | [Acceleration-Glider Drill](../drills/acceleration_glider_drill.md) |
 | xx | run the long run 3:30 min/mi slower than MM predicts in the 10K, adj for temp |
 | RR | "race rehearsal", running at goal pace, gradually increasing the distance |
-| MM | [Magic Mile](../drills/pacing__magic_mile.md), run in middle of running time for that day |
+| MM | [Magic Mile](../drills/magic_mile.md), run in middle of running time for that day |
 | XT | "cross-training", or alternative exercise such as walking, cycling, swimming |
 | H | [Hill Repeats](../drills/hill_repeats.md), done on Thursday or Sunday, see segment in primary training components |
 
