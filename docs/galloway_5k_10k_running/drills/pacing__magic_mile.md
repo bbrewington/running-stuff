@@ -3,20 +3,7 @@
 Notes
 - What it is: time trial to predict race performance
 - Use a track for distance & slope consistency
-
-### Pace Calculation
-
-- all times are in minutes
-- all temperatures in Fahrenheit; note: `TEMP_C = (9/5) * (TEMP_F - 32)`
-- for general planning, assuming an 8-10 minute magic mile pace
-
-```text
-PACE_LONG_RUN = PACE_MM - 3.5 - [ 30 * ( TEMP - 60 ) ]
-
-TEMP_F: { 0, 5, 10, ... }
-
-PACE_5K = PACE_MM + (33/60)
-```
+- for time planning, assuming an 8-10 minute magic mile pace
 
 ### Instructions
 
