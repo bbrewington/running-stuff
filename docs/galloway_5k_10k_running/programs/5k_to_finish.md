@@ -2,7 +2,28 @@
 
 From Galloway 5K/10K Running, p 34-35
 
-| Week #<br><br>(Cadence: Run / Walk) | Mon | Tue | Wed | Thu | Fri | Sat (adj MM) | Sun |
+## Key
+
+| Abbrev/Symbol | Meaning |
+|---|---|
+| (xx) | Run the long run 3.5 min/mi slower than your magic mile predicts in the 10K, adjust for temperature |
+| MM | [Magic Mile](../drills/magic_mile.md), which is run in the middle of the running time for that day |
+
+## Tools
+
+- Saturday Runs
+  - Run with MM
+    - Strava "Workout" (need to do MM on a track)
+  - Run (xx)
+    - Strava "Long Run"
+- Walk
+  - Strava "Workout"
+- Run/Walk
+  - Apple Watch app "Intervals Pro" --> Export to Strava
+
+## Plan
+
+| Week #<br><br>(Cadence: Run / Walk) | Mon | Tue | Wed | Thu | Fri | Sat (xx) | Sun |
 |---|---|---|---|---|---|---|---|
 | **Wk 1**<br><br>(15 sec / 45 sec) | 30 min run/walk | 30 min walk | 30 min run/walk | 30 min walk | off | 3 mi | off/walk |
 | **Wk 2**<br><br>(15 sec / 45 sec) | 30 min run/walk | 30 min walk | 30 min run/walk | 30 min walk | off | 3.5 mi run/walk | off/walk |
