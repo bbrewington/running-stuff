@@ -15,7 +15,7 @@ From Galloway 5K/10K Running, p 54-55
 | CD | [Cadence Drill](../drills/cadence_drill.md) |
 | AG | [Acceleration Glider Drill](../drills/acceleration_glider_drill.md) |
 | MM | [Magic Mile](../drills/magic_mile.md), which is run in the middle of the running time for that day |
-| Speed Day (*/**) N x 400 | [Speed Day](../drills/speed_day.md), After a warm-up, run a series of 400 meter repetitions, followed by a walk of 200 meters. Run each 400m lap 8 seconds faster than pace for the race |
+| Speed Day<br>N x 400 | [Speed Day](../drills/speed_day.md), After a warm-up, run a series of 400 meter repetitions, followed by a walk of 200 meters. Run each 400m lap 8 seconds faster than pace for the race |
 | (1H) or (2H) | [Hill Repeats](../drills/hill_repeats.md) |
 | RR | [Race Rehearsal](../drills/race_rehearsal.md) |
 
